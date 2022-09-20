@@ -2,7 +2,8 @@
 ![prewiew](./.github/prewiew.png)
 > Repositório raiz
 
-Arquivos diversos
+Arquivos diversos,
+
 Suporte técnico
 
 ## Segmentos
