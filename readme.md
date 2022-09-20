@@ -1,4 +1,4 @@
-# Gear
+# The Gear
 ![prewiew](./.github/prewiew.png)
 > Repositório raiz
 
