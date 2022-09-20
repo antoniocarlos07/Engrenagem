@@ -11,7 +11,7 @@ Suporte técnico
 - Eletrônica
 - Programação
 
-![Click aqui para saber mais](www/google.com)
+![Click aqui para saber mais](www/youtube.com/watch?v=DiejKLmLFq8)
 
 ## contato
 
