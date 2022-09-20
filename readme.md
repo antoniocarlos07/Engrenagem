@@ -9,7 +9,6 @@ Suporte técnico
 
 - Eletrônica
 - Programação
-- Entreterimento
 
 ![Click aqui para saber mais](www/google.com)
 
